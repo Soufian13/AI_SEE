@@ -7,3 +7,4 @@ We have identified three suitable data sets. We will start with the smallest dat
 
 We are using the following sources:
 https://www.kaggle.com/code/shubham2703/amazon-books-review-eda-sentiment-analysis/input
+https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
