@@ -6,4 +6,4 @@ The project "AI_SEE What You Like" aims to enhance the book recommendation proce
 
 ## 2. Usage
 
-All our code is written in Python and can be found in the file `...`. We used Google Colab for development and execution. To replicate this setup, we recommend uploading the entire folder structure to Google Drive. You may need to adjust the paths in the Jupyter notebook accordingly. Further documentation is available in the Jupyter notebook itself. Additionally, the project scope can be reviewed in the corresponding file. A detailed blog post about the project will soon be available on Medium at the following link: `...`.
+All our code is written in Python and can be found in the file `AI_Projekt_24/Code/Code.ipynb`. We used Google Colab for development and execution. To replicate this setup, we recommend uploading the entire folder structure to Google Drive. You may need to adjust the paths in the Jupyter notebook accordingly. Further documentation is available in the Jupyter notebook itself. Additionally, the project scope can be reviewed in the corresponding file. A detailed blog post about the project will soon be available on Medium.
