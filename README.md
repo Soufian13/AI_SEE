@@ -1,4 +1,4 @@
-# AI_SEE What You Like - Book Predictions Based on Sentiment Analysis
+# AI_SEE what you like - Book predictions based on sentiment analysis
 
 ## 1. Project Overview
 
