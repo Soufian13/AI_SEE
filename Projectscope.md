@@ -7,7 +7,7 @@ The project **"AI_SEE what you like"** aims to enhance the book recommendation p
 ## 2. Objectives
 
 - **Improve Recommendation Accuracy:** Utilize sentiment analysis to generate more accurate book recommendations tailored to individual user preferences.
-- **Leverage Sentiment Analysis:** Implement advanced sentiment analysis using the HuggingFace BERT model to understand user opinions beyond star ratings.
+- **Leverage Sentiment Analysis:** Implement advanced sentiment analysis using a modified BERT language model  to understand user opinions beyond star ratings (bert-base-multilingual-uncased-sentiment model from NLPTown provided on HuggingFace). This modified BERT model (we call it “HuggingFace BERT”) is an open-source tool that has been specifically developed for the purpose of sentiment analysis. 
 - **Outperform Traditional Systems:** Achieve a recommendation model with better performance metrics compared to traditional star rating-based systems.
 
 ## 3. Deliverables
