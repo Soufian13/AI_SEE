@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-The project **"AI_SEE what you like"** aims to enhance the book recommendation process by developing a model that leverages sentiment analysis of user reviews instead of relying solely on traditional star ratings. This approach is designed to provide more personalized and accurate book recommendations by understanding and interpreting the sentiments expressed in text reviews. The project was part of our participation in the Artifical Intelligence track of Techlabs Düsseldorf's Digital Shaper program.
+The project **"AI_SEE what you like"** aims to enhance the book recommendation process by developing a model that leverages sentiment analysis of user reviews instead of relying solely on traditional star ratings. This approach is designed to provide more personalized and accurate book recommendations by understanding and interpreting the sentiments expressed in text reviews. The project was part of our participation in the Artifical Intelligence track of Techlabs Düsseldorf's Digital Shaper program in the summer term 2024.
 
 ## 2. Objectives
 
