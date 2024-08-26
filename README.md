@@ -1,10 +1,9 @@
-# SEE_Sentiment_Extraction_Experts
+# AI_SEE What You Like - Book Predictions Based on Sentiment Analysis
 
-We would like to conduct a user analysis. We are focusing our analysis on data sets in which users were able to rate a product or service and leave a written review. Our model for predicting which other products or services might suit a user is based on two steps:
-1. A sentiment analysis is created based on the written review in order to make it usable for the model.
-2. We will then create a model (decision tree, neural network, random forest). The objective is to compare the effectiveness of the individual models with each other.
-We have identified three suitable data sets. We will start with the smallest data set and then work our way up to larger and larger data sets, assuming that our model only needs to be adjusted slightly with each change.
+## 1. Project Overview
 
-We are using the following sources:
-https://www.kaggle.com/code/shubham2703/amazon-books-review-eda-sentiment-analysis/input
-https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
+The project "AI_SEE What You Like" aims to enhance the book recommendation process by developing a model that leverages sentiment analysis of user reviews instead of relying solely on traditional star ratings. This approach is designed to provide more personalized and accurate book recommendations by understanding and interpreting the sentiments expressed in text reviews. The project was part of our participation in the Artificial Intelligence track of Techlabs Düsseldorf's Digital Shaper program in the summer term 2024.
+
+## 2. Usage
+
+All our code is written in Python and can be found in the file `...`. We used Google Colab for development and execution. To replicate this setup, we recommend uploading the entire folder structure to Google Drive. You may need to adjust the paths in the Jupyter notebook accordingly. Further documentation is available in the Jupyter notebook itself. Additionally, the project scope can be reviewed in the corresponding file. A detailed blog post about the project will soon be available on Medium at the following link: `...`.
